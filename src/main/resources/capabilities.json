@@ -1,0 +1,10 @@
+[
+  {
+    "platform": "MAC",
+    "browserName": "chrome"
+  },
+  {
+    "platform": "MAC",
+    "browserName": "safari"
+  }
+]
